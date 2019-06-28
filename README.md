@@ -1,1 +1,1 @@
-[MLRR2019](https://sheffieldmlnet.github.io/research-retreat/)
+More information about the retreat are available at: [MLRR2019](https://sheffieldmlnet.github.io/research-retreat/) webpage.
